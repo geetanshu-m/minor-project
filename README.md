@@ -2,28 +2,28 @@
 
 ## Introduction
 
-- Overview of the problem and possible solutions
+### Overview of the problem and possible solutions
 
 Mossack Fonseca & Co. is a Panamanian law firm and corporate service provider, which is the world’s fourth biggest provider of offshore financial services. From its 1977 foundation until the April 2016 publication of the Panama Papers it remained mostly obscure, even though it sits at the heart of the global offshore industry, and acts for about 300,000 companies. More than half are registered in British tax havens – as well as in the UK. The firm received worldwide media attention in April 2016, when the International Consortium of Investigative Journalists published information about its clients' financial dealings in the Panama Papers articles, following the release of an enormous cache of its documents from between 1970 and 2015 leaked to the news media.
 The solution to the Panama Paper leak would be identifying the relationship among the nodes, and get valuable information 
 
-- Objective of the project.
+### Objective of the project.
 Establishing a network among the person behind The Panama Paper Leak, Power Law Network, Routing Network, Six Sigma.
 Using graph databases becomes increasingly popular in domains where data can be modeled as a set of connected objects. Graph databases enable to query such data using graph-based queries in a relatively simple manner in comparison to the classical relational databases. In this project, we will use graph database, Neo4j, to identify the network behind the top-notch chain of interlinked people behind the biggest leak of history, The Panama Paper Case Leak.
 Here, organizations would be considered as the node and the persons would be the relationship between the node. Further through machine learning algorithms we would study their relations and their effect on the society and produce our study output. As Machine learning is about analyzing data to ‘learn’ a model or using an algorithm that can be applied to make predictions on new data sets.  These insights can be expressed as relationships between nodes in a graph. Graph databases enable efficient storage and traversal of information about relationships. Therefore, graph data would be the input of machine learning processing. To yield our study to a valuable conclusion.
 
-- Challanges / Why it is challangeing
+### Challanges / Why it is challangeing
 
 Working with 2.6TB of data is challanging because there is no machine and
 database is build to handle such a large amount of data.
 To achieve at our objective of establishing a network among the person behind The Panama Paper Leak, Power Law Network, Routing Network, Six Sigma.
 
-- How you are going to achive the objective.
+# How you are going to achive the objective.
 
 Firstly we will seggregated the data as:
 Data contained in the Paradise Papers:
-•	Officer: a person or company who plays a role in an offshore entity.
-•	(Offshore: made, situated, or registered abroad, especially in order to take advantage of lower taxes or costs or less stringent regulation.)
+	- Officer: a person or company who plays a role in an offshore entity.
+	- Offshore: made, situated, or registered abroad, especially in order to take advantage of lower taxes or costs or less stringent regulation.)
 •	Intermediary: go-between for someone seeking an offshore corporation and an offshore service provider — usually a law-firm or a middleman that asks an offshore service provider to create an offshore firm for a client.
 •	Entity: a company, trust or fund created in a low-tax, offshore jurisdiction by an agent.
 •	Address: postal address as it appears in the original databases obtained by ICIJ.
