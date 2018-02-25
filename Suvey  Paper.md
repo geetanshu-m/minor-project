@@ -33,6 +33,7 @@ Artificial neural network, a computing model analogous to biological neurons of 
 but with a vast imbalance in fraudulent to legitimate transactions misclassification is common and can be significantly costly. Many data mining approaches are efficient classifiers and are applicable to fraud detection for their efficiency at processing large datasets.
 
 
+
 		- All Possible Classification
 			- Short Summanry
 		- How classificaion work with technique ?
