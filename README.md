@@ -40,9 +40,13 @@ The particular suitability of a given NoSQL database depends on the problem it m
 Most NoSQL stores lack true ACID transactions, although a few databases, such as MarkLogic, Aerospike, FairCom c-treeACE, Google Spanner (though technically a NewSQL database), Symas LMDB, and OrientDB have made them central to their designs.
 
 SQL Statement
+
 ```SELECT name FROM Person LEFT JOIN Person_Department ON Person.Id = Person_Department.PersonId LEFT JOIN Department ON Department.Id = Person_Department.DepartmentId WHERE Department.name = "IT Department“```
+
 Cypher Statement
+
 ```MATCH (p:Person)<-[:EMPLOYEE]-(d:Department) WHERE d.name = "IT Department" RETURN p.name```
+
 ### Technique
 Cypher Query Language
 
