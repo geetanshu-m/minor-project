@@ -58,10 +58,12 @@ Cypher Query Language
 ### Meta-data of the data
 We are given with the CSV of nodes and there diffrent connected nodes. There are mainly four types od nodes present wiz. address, entity, intermediary and officer.
 Each of the node file consist of the following major coloums :
-	- labels(n) 		: 	which defines the relation to the node.
+
+	- labels(n) 	: 	which defines the relation to the node.
 	- node_id		: 	the unique id of the node.
 	- countries		: 	contry to which organization belongs.
 The edge file consist of the following major coloums :
+
 	- node_1		:	First node of realtion
 	- rel_type		: 	relation type which can be either 'registered_address', 'same_as', 'intermediary_of', 'similar', 'officer_of'
 	- node_2		:	Second node which is related
