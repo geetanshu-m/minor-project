@@ -36,7 +36,7 @@ but with a vast imbalance in fraudulent to legitimate transactions misclassifica
 
 Infrences|Results
 ---|---
-Graph database is better at finding pattern rather than relational database|Very much true as the relational patter at deffrent level as well as in diffrent networks can be very well analysed with graph database
+Graph analysis in financial fraud detection is very efficient|Very much true as the relational patter at diffrent level as well as in diffrent networks can be very well analysed with graph database
 
 ### References
 1. APPLICATIONS OF ARTIFICIAL INTELLIGENCE
