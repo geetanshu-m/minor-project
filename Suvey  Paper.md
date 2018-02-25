@@ -32,13 +32,13 @@ Artificial neural network, a computing model analogous to biological neurons of 
  Chief Inspector of Business and data mining have already been shown to be useful in similar domains such as credit card approval, bankruptcy prediction, and analysis of share markets. Fraud detection is primarily considered to be a classification problem,
 but with a vast imbalance in fraudulent to legitimate transactions misclassification is common and can be significantly costly. Many data mining approaches are efficient classifiers and are applicable to fraud detection for their efficiency at processing large datasets.
 
-![](images/1.png)
+![1](images/1.png)
 
-![](images/2.png)
+![2](images/2.png)
 
-![](images/3.png)
+![3](images/3.png)
 
-![](/images/4.png)
+![4](/images/4.png)
 
 		- All Possible Classification
 			- Short Summanry
