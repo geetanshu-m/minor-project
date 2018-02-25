@@ -40,7 +40,6 @@ but with a vast imbalance in fraudulent to legitimate transactions misclassifica
 
 ![](/images/4.png)
 
-
 		- All Possible Classification
 			- Short Summanry
 		- How classificaion work with technique ?
