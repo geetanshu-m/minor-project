@@ -34,9 +34,9 @@ but with a vast imbalance in fraudulent to legitimate transactions misclassifica
 		
 ### Conclusion
 
-Infrences|Results
+Inferences|Results
 ---|---
-Graph analysis in financial fraud detection is very efficient|Very much true as the relational patter at diffrent level as well as in diffrent networks can be very well analysed with graph database
+Graph analysis in financial fraud detection is very efficient|Very much true as the relational pattern at diffrent level as well as in diffrent networks can be very well analysed with graph database
 
 ### References
 1. APPLICATIONS OF ARTIFICIAL INTELLIGENCE
