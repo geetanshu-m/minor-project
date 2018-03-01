@@ -1,0 +1,28 @@
+\subsection{Meta-data of the data}
+We are given with the CSV of nodes and there different connected nodes. There are mainly four types of nodes present wiz. address, entity, intermediary and officer.
+Each of the node file consist of the following major columns
+
+
+\begin{longtable}{ | p{2cm} | p{9cm} | } 
+\hline
+labels(n) & which defines the relation to the node. \\ 
+\hline
+node\_id & the unique id of the node \\
+\hline
+countries & country to which organization belongs \\ 
+\hline
+\end{longtable}
+
+The edge file consist of the following major columns
+
+    \begin{longtable}{ | p{2cm} | p{9cm} | } 
+        \hline
+            labels(n) & which defines the relation to the node. \\ 
+        \hline
+            node\_1 & First node of relation \\
+        \hline
+            rel\_type & relation type which can be either registered\_address, same\_as, intermediary\_of, similar, officer\_of \\ 
+        \hline
+            node\_2 & Second node which is related \\
+        \hline
+    \end{longtable}
